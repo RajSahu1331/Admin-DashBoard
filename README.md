@@ -2,6 +2,8 @@
 
 An interface for admins to see and delete users.
 
+# Hosted Link : https://admin-dashboard-1331.netlify.app/
+
 # Features of the DashBoard
 
 1. Search any field using search Bar
