@@ -14,7 +14,8 @@ An interface for admins to see and delete users.
 
 5. Pagination with next , previous keys to show at max 10 records at a time
    .
-   Image:
+
+   # Image:
    ![Alt text](image.png)
 
 # Steps to run this project locally:
